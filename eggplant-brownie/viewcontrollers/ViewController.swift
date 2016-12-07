@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  eggplant-brownie
-//
-//  Created by Alura on 19/09/16.
-//  Copyright © 2016 Alura. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController, UITableViewDataSource, UITableViewDelegate, AddAnItemDelegate {

@@ -1,11 +1,3 @@
-//
-//  Dao.swift
-//  eggplant-brownie
-//
-//  Created by Alura on 10/31/16.
-//  Copyright © 2016 Alura. All rights reserved.
-//
-
 import Foundation
 
 class Dao {
